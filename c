@@ -1,1 +1,1 @@
-this is c programming language
+printf is used for c
